@@ -1,0 +1,12 @@
+
+https://www.journaldev.com/18148/spring-boot-elasticsearch
+
+http://localhost:9200/         Elastic Search
+
+http://localhost:8080/books    POST request with JSON
+
+{
+  "title" : "Java Always",
+  "author" : "JournalDev",
+  "price" : 99.1
+}
